@@ -1,7 +1,5 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-- 👋 Hi, I’m scrappie, I occasionally stream over on Twitch and sometimes learn how to code.
-- 👀 I’m interested in learning Discord.JS & JavaScript.
-- 🌱 I’m currently learning Discord.JS!
+- Complete noob at Discord.JS but I'm still learning.
+- I sometimes stream on Twitch.
 
 <!---
 notscrappie/notscrappie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
