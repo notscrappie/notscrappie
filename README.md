@@ -1,4 +1,5 @@
-- Complete noob at Discord.JS but I'm still learning.
+- Still a noob at Discord.JS.
+- Memetainer of [Jinx](https://github.com/cryolabs/jinx).
 - I sometimes stream on Twitch.
 
 <!---
