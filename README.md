@@ -30,8 +30,9 @@
   
 <a href="https://ko-fi.com/notscrappie" target="_blank">
 <img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=for-the-badge&logo=ko-fi"/>
-</div>  
-  
+</a>
+</div> 
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=notscrappie&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
   
 
