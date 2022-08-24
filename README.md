@@ -36,6 +36,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/notscrappie/notscrappie/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/notscrappie/notscrappie/output/snake.svg"/>
 
 ###
