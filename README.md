@@ -1,8 +1,41 @@
-# Hi, I'm scrappie.
+<h2 align="left">Hi 👋! My name is scrappie.</h2>
 
-I'm a Discord Bot Developer that currently maintains [Evelyn](https://github.com/cryolabs/Evelyn). Feel free to send me a friend request on Discord over at scrappie#5451 if you have any questions regarding Aeolian.
+###
 
-<!---
-notscrappie/notscrappie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=notscrappie" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=notscrappie" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/82669805?v=4"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://instagram.com/scr3ppie" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://twitch.tv/scr3ppie" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/HwkDSs7X82" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img href="https://raw.githubusercontent.com/notscrappie/notscrappie/output/snake.svg" alt="Snake animation" />
+
+###
