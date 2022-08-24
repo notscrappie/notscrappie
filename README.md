@@ -1,41 +1,43 @@
-<h2 align="left">Hi 👋! My name is scrappie.</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=notscrappie" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=notscrappie" height="150" alt="languages graph"  />
-</div>
+<img src="https://i.imgur.com/GOJtcHI.png" align="center" style="width: 100%" />
+</div>  
+  
 
-###
+### <div align="center">I make cool stuff sometimes.</div>  
+  
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/82669805?v=4"  />
+<br/>  
 
-###
+## My Toolkit  
+ 
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+</div> 
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-</div>
+<br/>  
 
-###
+## Socials and Stuff  
+<div align="center">
+<a href="https://instagram.com/scr3ppie" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/notscrappie" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+  
+<a href="https://twitter.com/scr3ppie" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+  
+<a href="https://ko-fi.com/notscrappie" target="_blank">
+<img src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=for-the-badge&logo=ko-fi"/>
+</div>  
+  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=notscrappie&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
 
-<div align="left">
-  <a href="https://instagram.com/scr3ppie" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://twitch.tv/scr3ppie" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="https://discord.gg/HwkDSs7X82" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+<br/>   
+  
+#
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=lg99bxnx6mq5ckn64nj1h6wlq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" /></div>  
 
-###
-
-<br clear="both">
-
-<img href="https://raw.githubusercontent.com/notscrappie/notscrappie/output/snake.svg"/>
-
-###
+<br/>  
