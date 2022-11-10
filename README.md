@@ -4,9 +4,6 @@
   
 
 ### <div align="center">I make cool stuff sometimes.</div>  
-  
-
-<br/>  
 
 ## My Toolkit  
  
